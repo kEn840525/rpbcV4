@@ -1,8 +1,7 @@
 repeat task.wait() until game:IsLoaded()
 if shared.rpbrv then shared.rpbrv:Uninject() end
 
--- ⚠️ 본인의 깃허브 유저네임으로 변경하세요!
-local GITHUB_USER = "YOUR_GITHUB_USERNAME"
+local GITHUB_USER = "kEn840525"
 local REPO_NAME = "rpbrv"
 local BRANCH = "main"
 
